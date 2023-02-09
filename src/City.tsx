@@ -25,7 +25,6 @@ export const City = (props: CityPropsType) => {
     return (
         <Wrapper>
             {mappedMoney}
-            {/* <div>{mappedMoney}</div> */}
         </Wrapper>
     );
 };
